@@ -1,12 +1,13 @@
-package VT_DTO_Sub;
+package vt_dto;
 import lombok.Getter;
 import lombok.Setter;
 
 @Getter
 @Setter
-public class downloaded_samples {
-	private String date;
+
+public class DetectedUrls {
+	private String url;
 	private String positives;
 	private String total;
-	private String sha256;
+	private String scan_date;
 }

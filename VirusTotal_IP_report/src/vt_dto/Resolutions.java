@@ -1,4 +1,4 @@
-package VT_DTO_Sub;
+package vt_dto;
 import lombok.Getter;
 import lombok.Setter;
 

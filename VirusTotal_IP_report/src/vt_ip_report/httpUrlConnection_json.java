@@ -9,9 +9,10 @@ import java.util.Properties;
 
 import com.google.gson.Gson;
 
-import VT_DTO_Sub.DetectedUrls;
-import VT_DTO_Sub.Resolutions;
-import VT_DTO_Sub.downloaded_samples;
+import vt_dto.DetectedUrls;
+import vt_dto.Resolutions;
+import vt_dto.VT_DTO;
+import vt_dto.downloaded_samples;
 
 public class httpUrlConnection_json {
 	 

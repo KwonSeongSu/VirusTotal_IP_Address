@@ -1,9 +1,6 @@
-package vt_ip_report;
+package vt_dto;
 import java.util.List;
 
-import VT_DTO_Sub.DetectedUrls;
-import VT_DTO_Sub.Resolutions;
-import VT_DTO_Sub.downloaded_samples;
 import lombok.Getter;
 import lombok.Setter;
 
